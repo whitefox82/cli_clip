@@ -1,4 +1,4 @@
-# cli_clip# clip
+clip
 
 `clip` is a simple command-line tool written in Rust that executes a given command with its arguments, captures the output (both stdout and stderr), and copies the output to the clipboard. The output is also displayed in the terminal.
 
