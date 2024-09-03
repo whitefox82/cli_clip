@@ -1,0 +1,10 @@
+[package]
+name = "cli_clip"
+version = "0.1.0"
+edition = "2021"
+description = "A simple command-line tool to execute commands and copy the output (stdout and stderr) to the clipboard. It also displays the output in the terminal."
+authors = ["Bryan Abbott <bryan.abbott01@pm.me>"]
+repository = "https://github.com/whitefox82/cli_clip"
+
+[dependencies]
+clipboard = "*"
